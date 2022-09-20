@@ -163,5 +163,5 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 - <b>⍣ [𝓖𝓾𝓡𝓾](https://GitHub.com/8769ANURAG)</b>
 - Everyone In This Journey !
 
-<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [𝓖𝓾𝓡𝓾](https://telegram.dog/AboutGuru1) | [ɪɴsᴛᴀɢʀᴀᴍ](https://www.instagram.com/anuragmaheswari_official/) | [ɢɪᴛʜᴜʙ](https://GitHub.com/8769ANURAG)</b>                                                                                                                                                                                    
+<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [𝓖𝓾𝓡𝓾](https://telegram.dog/sources_cods) | [ɪɴsᴛᴀɢʀᴀᴍ](https://www.instagram.com/anuragmaheswari_official/) | [ɢɪᴛʜᴜʙ](https://GitHub.com/8769ANURAG)</b>                                                                                                                                                                                    
 <b>ᴄʜᴀɴɴᴇʟ ›› [ᎯℕUℛᎯᎶ](https://t.me/MOVIES_ZILAA)</b>
