@@ -1,4 +1,4 @@
-# (c) adarsh-goel
+# (c) ANURAG-MAHESWARI
 
 
 def humanbytes(size):
