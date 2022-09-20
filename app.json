@@ -1,6 +1,6 @@
 {
   "name": "Anurag-FileStreamBot",
-  "description": "A Pyrogram Telegram bot to Stream Telegram files to web. @AnuragB8_Bot",
+  "description": "A Pyrogram Telegram bot to Stream Telegram files to web. @sources_cods",
   "keywords": [
       "telegram",
       "stream",
@@ -35,7 +35,7 @@
           "description": "Get this value from @BotFather"
       },
       "BIN_CHANNEL": {
-          "description": "The BIN Channel ID. Read the readme for more info about this var"
+          "description": "The LOG/BIN Channel ID. Read the readme for more info about this var"
           
       },
       "DATABASE_URL": {
@@ -50,12 +50,12 @@
       },
       "UPDATES_CHANNEL": {
           "description": "Put a Public Channel Username  without @, so every user have to Join that channel to use the bot. Must add bot to channel as Admin to work properly.IF DONT WANT KEEP VALUE AS None",
-          "value":"None",
+          "value":"True",
           "required": false
           
       },
       "OWNER_USERNAME": {
-          "description": "Enter your username without @  example  adarsh."
+          "description": "Enter your username without @ MOVIES_ZILAA ."
       },
       "SLEEP_THRESHOLD": {
           "description": "Floodwait Sleep timer. Read the readme for more info about this var",
@@ -94,7 +94,7 @@
           "required": false
       },
       "SESSION_NAME": {
-          "description": " Session Name for Bot [ Add adarsh-goel]",
+          "description": " Session Name for Bot [ Add ANURAG-MAHESHWARI]",
           "value": "File-To-Link",
           "required": false
       }
